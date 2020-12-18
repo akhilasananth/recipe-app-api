@@ -1,4 +1,4 @@
-FROM python:3.-alpine
+FROM python:3.9-alpine
 MAINTAINER Akhila Ananth
 
 ENV PYTHONUNBUFFERED 1
